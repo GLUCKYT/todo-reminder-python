@@ -208,13 +208,7 @@ MIT License
 
 ## 👨‍💻 作者
 
-Your Name
-
-## 🙏 致谢
-
-感谢所有为此项目做出贡献的开发者！
-
----
+永远等花盛开
 
 <div align="center">
 
